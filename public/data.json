@@ -1,0 +1,30 @@
+[
+    {
+        "id": 1,
+        "img": "https://i.ibb.co/kSxWjgj/Sajek.png",
+        "title": "Cox's Bazar",
+        "origin": "Chittagong",
+        "description": "Cox's Bazar is a popular tourist destination known for its long sandy beach."
+    },
+    {
+        "id": 2,
+        "img": "https://i.ibb.co/HKvnK2j/Sreemongol.png",
+        "title": "Sreemangal",
+        "origin": "Sylhet",
+        "description": "Sreemangal is often called the 'Land of Two Leaves and a Bud' due to its tea gardens."
+    },
+    {
+        "id": 3,
+        "img": "https://i.ibb.co/8M3wq4D/sundorbon.png",
+        "title": "Sundarbans",
+        "origin": "Khulna",
+        "description": "The Sundarbans is the largest mangrove forest in the world and home to the Bengal tiger."
+    },
+    {
+        "id": 4,
+        "img": "https://i.ibb.co/kSxWjgj/Sajek.png",
+        "title": "Sajek",
+        "origin": "Rangamati",
+        "description": "Sajek Valley offers breathtaking views of the hills and is a serene getaway."
+    }
+]
